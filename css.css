@@ -1,0 +1,69 @@
+header{
+    text-align: center;
+    padding: 20px;
+}
+
+.header-text{
+    text-align: center;
+}
+
+.header-image{
+    width: 70px;
+    height: 70px;
+
+}
+
+.typing{
+    text-align: right;
+}
+.screen{
+    text-align: left;
+}
+
+
+header{
+       background-color: rgb(255, 255, 64);
+}
+
+.informationQuery{
+    text-align: center;
+    padding: 50px;
+   }
+
+.infoScreen{
+    text-align: center;
+ background-color: rgb(255, 15, 15);
+ width: 70%;
+ padding: 20px;
+ margin: auto;
+ border-radius: 20px;
+}
+
+textarea{
+    width: 400px;
+}
+
+p{
+    font-weight: bold;
+    padding: 10px;
+}
+
+.just{
+    text-align: justify;
+    margin-left: 100px;
+}
+
+.newScreen{
+    text-align: center;
+ border: rgb(255, 15, 15) solid 5px;
+ width: 70%;
+ padding: 20px;
+ margin: auto;
+ border-radius: 20px;
+ background-color: white;
+ color: black;
+}
+
+footer{
+    text-align: center;
+}
